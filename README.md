@@ -8,9 +8,14 @@ Comparing LACITY Open Data with Official Reports
   * The methods outlined here may or may not arrive to the official numbers, and documenting them here on github invites others to participate in testing out alternative ways and try other datasets that could reach a more accurate representation of the housing status in the City of Los Angeles.
   * In the end, it's not about the results but to see if citizens, academics and professionals can use open data in support of improving the quality of information published by municipal governments.
 
-##Sources
+##Open Data Sources
 * Building and Safety Permit Information from the [LACITY Open Data Portal](https://data.lacity.org) | Issued by the Department of Building and Safety | Last Updated Aug 15, 2016 | [Link to full permit dataset](https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information/yv23-pmwf)
   * Note: Permit issue dates start at 1/01/2013 to 8/11/2016
   * This dataset contains building permits, electrical permits, and mechanical permits.
   * Copy of full dataset from this update can be downloaded in this repo.
+ 
+##Reports and other prepared datasets
+* [US Census Building Permits Survey](https://www.census.gov/construction/bps/) | The data provides the number of housing units authorized by building permits
+ * Data for LA city can be found on this repo.
+* [Los Angeles Department of Building and Safety Newsletters](http://ladbs.org/forms-publications/publications/newsletter)
 
