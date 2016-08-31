@@ -18,4 +18,15 @@ Comparing LACITY Open Data with Official Reports
 * [US Census Building Permits Survey](https://www.census.gov/construction/bps/) | The data provides the number of housing units authorized by building permits
  * Data for LA city can be found on this repo.
 * [Los Angeles Department of Building and Safety Newsletters](http://ladbs.org/forms-publications/publications/newsletter)
+* Annual Element Progress Report, Housing Element Implementation | 
+ * [2010](http://cityplanning.lacity.org/HousingInitiatives/HousingElement/Final/APR_2010_Final.pdf) | [2011](http://cityplanning.lacity.org/PolicyInitiatives/Housing/ProRept/APR2011.pdf) | [2012](http://planning.lacity.org/PolicyInitiatives/Housing/ProRept/APR2012.pdf) | [2013](http://cityplanning.lacity.org/PolicyInitiatives/Housing/ProRept/APR2013.pdf) | [2014](http://cityplanning.lacity.org/PolicyInitiatives/Housing/ProRept/APR2014.pdf)
+ * Previous years can be found at the [California Department of Housing and Community Development](http://www.hcd.ca.gov/regulations/)
+ 
+##Explorations and methods
+###Building Permits
+
+The mayor's office published status report on 8.25.2016 indicated that since July 1, 2013 to June 30th 2016, the city has issued permits for 40,805 dwelling units.
+
+
+
 
