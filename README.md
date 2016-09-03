@@ -41,7 +41,10 @@ The raw data is filtered by Fiscal Year, so its consistent with the reports. Usi
 * `Issue Date` is before `Start Fiscal Year`
 * `# of Residential Dwelling Units` is greater than `0`
 
-Filtered results in comparison to reported totals. Also included is the number of building permits (All types) issued.
+Filtered results in comparison to reported totals. Also included is the number of building permits (All types) issued. Links to raw results.
+* [FY 2013](https://data.lacity.org/A-Prosperous-City/Dwelling-Units-FY-2013/dkug-ccem)
+* [FY 2014](https://data.lacity.org/A-Prosperous-City/Dwelling-Units-FY-2014/ah75-kk4t)
+* [Fy 2015](https://data.lacity.org/A-Prosperous-City/Dwelling-Units-FY-2015/n22z-viyx)
 
 | Data Comparison of LACITY Reports with Open Data |  |  |  |  |  |
 |---------------------------------------------------------|----------------------|------------------|------------------|--------------------|--------------------|
