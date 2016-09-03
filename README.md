@@ -25,8 +25,8 @@ Comparing LACITY Open Data with Official Reports
 ##Explorations and methods
 ###Building Permits
 
-The mayor's office published status report on 8.25.2016 indicated that since July 1, 2013 to June 30th 2016, the city has issued permits for 40,805 dwelling units.
-
+The mayor's office published status report on 8.25.2016 indicated that since July 1, 2013 to June 30th 2016, the city has issued permits for 40,805 dwelling units. The report, only summarizes the yearly permit tracking from the Department of Building and Safety, which can be matched up with the quarterly newsletters that LADBS publishes as follows.
+* 
 
 
 
