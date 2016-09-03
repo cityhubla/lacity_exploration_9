@@ -31,7 +31,7 @@ The mayor's office published status report on 8.25.2016 indicated that since Jul
 * 40,911 - LADBS Newsletters
 * 40,100 - Census Building Permits Survey
 
-Raw permit data is published on the city's data portal, which has a terrific detailed breakdown of permits by address, permit type, description and it also includes geocoordinates for mapping. There is opportunities for further analysis on a local level which can include totals by Council District, Community Plan, Neighborhood Council.
+Raw permit data is published on the city's data portal, which has a terrific detailed breakdown of permits by address, permit type, description and it also includes geocoordinates for mapping. There is opportunities for further analysis on a local level which can include totals by Council District, Community Plan, Neighborhood Council. The geocoordinates can be used to generate maps for additional inquiry.
 
 **9.2.2016**
 
