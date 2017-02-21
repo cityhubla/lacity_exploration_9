@@ -74,6 +74,9 @@ Filtered results in comparison to reported totals. Also included is the number o
 | FY16TOTAL | 14,876 | 14,876 | 157,000 | 153,061 | 13,756 |
 | Total | 40,805 | 40,911 | 432,000 | 421,035 | 37,400 |
 
+## sectionla
+This exploration is part of [section.la] (https://github.com/cityhubla/sectionla/blob/master/README.md) is a collection of maps and data visualizations exploring Southern California, one section at a time. 
+
 The analysis, maps and code behind the explorations contribute to the services I offer as a consultant developing analog and digital tools and visualizations for Civic Engagement, Planning, Land Use Development and Public Policy. Think you could use my services?
 
 Contact me Omar Ureta | [Twitter](https://twitter.com/theworksla) | Email : omaru[at]theworks.la | [Website](http://www.theworks.la/) | [linkedin](https://www.linkedin.com/in/omar-ureta-87195a55)
