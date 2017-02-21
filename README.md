@@ -75,7 +75,7 @@ Filtered results in comparison to reported totals. Also included is the number o
 | Total | 40,805 | 40,911 | 432,000 | 421,035 | 37,400 |
 
 ## sectionla
-This exploration is part of [section.la] (https://github.com/cityhubla/sectionla/blob/master/README.md) is a collection of maps and data visualizations exploring Southern California, one section at a time. 
+This exploration is part of [section.la] (https://github.com/cityhubla/sectionla/blob/master/README.md), a collection of maps and data visualizations exploring Southern California, one section at a time. 
 
 The analysis, maps and code behind the explorations contribute to the services I offer as a consultant developing analog and digital tools and visualizations for Civic Engagement, Planning, Land Use Development and Public Policy. Think you could use my services?
 
